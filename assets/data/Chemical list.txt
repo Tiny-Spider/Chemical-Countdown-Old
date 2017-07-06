@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<chemical>
+		   <name>Sulphuric Acid</name>
+		   <color>red</color>
+		   <shape>triangle</shape>
+	</chemical>
+</root>
